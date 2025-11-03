@@ -467,7 +467,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- **Dataset**: Kaggle Home Credit Default Risk Competition
+- **Dataset**: Home Credit Default Risk 
 - **Framework**: scikit-learn, LightGBM, Gradio
 - **Inspiration**: Real-world credit scoring systems
 
