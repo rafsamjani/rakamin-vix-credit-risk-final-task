@@ -6,9 +6,9 @@
 [![Gradio](https://img.shields.io/badge/Gradio-4.0+-red.svg)](https://gradio.app/)
 
 **Project**: Credit Risk Assessment & Scoring System  
-**Author**: [Your Name]  
+**Author**: Rafsamjani Anugrah  
 **Date**: November 2025  
-**Dataset**: Home Credit Default Risk (Kaggle)
+**Dataset**: Home Credit Default Risk 
 
 ---
 
@@ -456,15 +456,6 @@ Rakamin_VIX_internship/
 - ✅ Approval rate optimization
 - ✅ Risk-opportunity balance
 - ✅ Actionable recommendations
-
----
-
-## 📞 Contact
-
-**Author**: [Your Name]  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn]  
-**GitHub**: [Your GitHub]
 
 ---
 
